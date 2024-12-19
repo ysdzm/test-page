@@ -1,7 +1,32 @@
 ---
-name: Tracking issue
-about: Use this template for tracking new features.
-title: "[DATE]: [FEATURE NAME]"
-labels: tracking issue, needs triage
-assignees: octocat
+name: 🐛 バグ報告
+about: バグの詳細を報告してください
+title: "[BUG] バグの簡単な説明"
+labels: bug
+assignees: ''
+
 ---
+
+### バグの概要
+バグの簡単な説明を記載してください。
+
+### 再現手順
+バグを再現する手順を記載してください:
+1. Go to '...'
+2. Click on '...'
+3. Scroll down to '...'
+4. See error
+
+### 期待される動作
+本来期待される動作を記載してください。
+
+### スクリーンショット
+該当する場合は、問題を説明するスクリーンショットを添付してください。
+
+### 環境情報
+- OS: [例: Windows 10, macOS Big Sur]
+- ブラウザ: [例: Chrome, Firefox]
+- バージョン: [例: 93.0.4577.63]
+
+### その他
+その他関連する情報を記載してください。
